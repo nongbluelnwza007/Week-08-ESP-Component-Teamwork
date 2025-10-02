@@ -1,0 +1,10 @@
+dependencies:
+  Lab08-LED-Components:
+    git:
+      https://github.com/Suwaphat04/Lab08-LED-Components.git
+  Lab08-Display-Components:
+    git: 
+      https://github.com/Natthanitcha687/66030232-display.git
+  Lab08_Sensors_Components:
+    git: 
+      https://github.com/nongbluelnwza007/Week-08-ESP-Kantapat-Sensor.git
